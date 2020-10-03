@@ -1,0 +1,25 @@
+.schedule{
+    position: absolute;
+    width: 400px;
+    height: 357px;
+    left: 600px;
+    top: 150px;
+    
+    background: lightsalmon;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    text-align: center;
+}    
+.schedule-btn{
+    color: black;
+    background:yellow;
+    height:40px;
+    width:50px;
+    font-size: 20px;
+    border-radius: 100px;
+}
+.time-date{
+    height: 30px;
+    width: 175px;
+}
